@@ -1,5 +1,5 @@
 
-// Имаш списък от стрингове. Принтирай ги в конзолата по 1 на ред, така че да се подравнят вдясно до най-дългия
+// You have a list of thongs. Print them in the console  in a row so that they line up to the right to the longest
 
 const arrayOfStrings : Array<string> = ["s","strsddas","sdt","sadsadsadas","abjire","hjtd","dasde"];
 
